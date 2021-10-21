@@ -1,16 +1,16 @@
 {
-    "name": "brokeyourbike/replace-me",
+    "name": "brokeyourbike/laravel-package-template",
     "description": "Replace me with package description",
     "type": "library",
     "license": "MPL-2.0",
     "autoload": {
         "psr-4": {
-            "BrokeYourBike\\ReplaceMe\\": "src/"
+            "BrokeYourBike\\LaravelPackageTemplate\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "BrokeYourBike\\ReplaceMe\\Tests\\": "tests/"
+            "BrokeYourBike\\LaravelPackageTemplate\\Tests\\": "tests/"
         }
     },
     "authors": [
